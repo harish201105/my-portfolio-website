@@ -1,0 +1,21 @@
+/* styles.css */
+.subtle-starry-background {
+  background: linear-gradient(to right, #292a3e, #3d3e55);
+  background-image: 
+    radial-gradient(2px 2px at 20px 20px, white, rgba(255, 255, 255, 0) 50%),
+    radial-gradient(2px 2px at 80px 80px, white, rgba(255, 255, 255, 0) 50%),
+    radial-gradient(2px 2px at 130px 60px, white, rgba(255, 255, 255, 0) 50%),
+    radial-gradient(2px 2px at 190px 150px, white, rgba(255, 255, 255, 0) 50%);
+  background-size: 200px 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
