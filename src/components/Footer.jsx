@@ -9,7 +9,7 @@ export default function Footer() {
       style={{ backgroundColor: "rgba(10, 4, 22, 0.2)" }}
     >
       <div className="">Developed by Harish Parthasarathy</div>
-      <div className="mb-2">Copyright © 2024 HP</div>
+      <div className="mb-2">Copyright © 2025 HP</div>
       <div className="flex gap-10 text-xl md:text-xl lg:text-2xl">
         <span>
           <FaFacebook />

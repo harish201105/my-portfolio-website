@@ -35,7 +35,7 @@ export default function About() {
             <span style={{ color: "#C770F0" }}>
               Harish
             </span>
-            . An Entrepreneur and Tech Enthusiast, currently pursuing a B.Tech in Computer Science Engineering at SRM Institute of Science and Technology. I'm a IBM-Certified Full Stack Software Developer and a Stanford-Certified Machine Learning Engineer, with a strong passion for Quantum Computing.
+            . An Entrepreneur and Tech Enthusiast, currently pursuing a B.Tech in Computer Science Engineering with Honors in Financial Technologies at SRM Institute of Science and Technology, Chennai. I'm a IBM-Certified Full Stack Software Developer and a Stanford-Certified Machine Learning Engineer, with a strong passion for Quantum Computing.
           </p>
           <p className="pb-4 text-white">
           Driven by the belief that everything becomes an art when approached with consciousness. My work revolves around pushing the boundaries of technology to create innovative solutions. 

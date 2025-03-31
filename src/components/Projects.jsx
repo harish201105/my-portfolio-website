@@ -13,7 +13,7 @@ export default function Projects() {
           </span>
         </h1>
         <p className="text-sm sm:text-lg text-white">
-          Here are a few deployed frontend projects I've worked on recently. Checkout my Github for more!
+          Here are a few End-to-End AI projects I've worked on recently. Checkout my Github for more!
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 text-center">

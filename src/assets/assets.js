@@ -1,62 +1,62 @@
-import cryptoApp from "../assets/images/cryptoApp.png";
-import acmeRockets from "../assets/images/acmeRockets.png";
-import realEstate from "../assets/images/realEstate.png";
-import memeGenerator from "../assets/images/memeGenerator.png";
-import budgetApp from "../assets/images/budgetApp.png";
-import ecommerceApp from "../assets/images/ecommerceApp.png";
+import careconnect from "../assets/images/careconnect.png";
+import femguard from "../assets/images/femguard.png";
+import harvesthub from "../assets/images/harvesthub.png";
+import steershield from "../assets/images/steershield.png";
+import equistox from "../assets/images/equistox.png";
+import attendease from "../assets/images/attendease.png";
 export const project_list = [
   {
     id: 1,
-    image: ecommerceApp,
-    name: "Ecommerce Store",
+    image: careconnect,
+    name: "Care-Connect",
     description:
-      "This app lets users browse separate categories for men and women, use a search bar to find specific products, add or remove items from the cart, and view the total price. It also suggests related products and includes a simple checkout form.",
-    ghlink: "https://github.com/harish201105",
-    demolink: "https://shopix-ecommerce-app.netlify.app/",
+      "An AI-Powered Post-Discharge Care with computer vision physio assistance, AR/VR rehab, and an AI-assistant for healthcare and medical support. It includes medicine reminders, a Care Ring for SOS alerts, and seamless patient-doctor-hospital connectivity.",
+    ghlink: "https://github.com/harish201105/Care-Connect",
+    demolink: "https://youtube.com/@harishparthasarathy2005?si=dfVLmt5wyccPQ6aO",
   },
   {
     id: 2,
-    image: budgetApp,
-    name: "Budget App",
+    image: femguard,
+    name: "Fem-Guard",
     description:
-      "This is a simple budget app built using React. It allows users to add different budgets, add expenses to the current budgets, display all budgets, display expenses, delete budgets & expenses, and offers functionality to get total budgets and expenses.",
-    ghlink: "https://github.com/harish201105",
-    demolink: "https://budget-application-react.netlify.app/",
+      "An Intelligent and Secured mobile app designed to enhance women’s safety. It features a blockchain-powered complaint portal, safe zone-based travel recommendations, live tracking with an emergency alert system using a smart ring, and a conversational chatbot for mental support during distress.",
+    ghlink: "https://github.com/harish201105/FemGuard",
+    demolink: "https://youtube.com/@harishparthasarathy2005?si=dfVLmt5wyccPQ6aO",
   },
   {
     id: 3,
-    image: cryptoApp,
-    name: "Crypto App",
+    image: attendease,
+    name: "Attend-Ease",
     description:
-      "This app uses cryptocurrency APIs to provide real-time data across three main pages: Crypto, Trending, and Saved. The Crypto page lists various cryptocurrencies, the Trending page showcases popular coins, and the Saved page lets users save their favorites.",
-    ghlink: "https://github.com/harish201105",
-    demolink: "https://crypto-application-react.netlify.app/",
+      "Cloud based attendance tracking platform with advanced computer vision technology, ensuring seamless and accurate student attendance through facial recognition.",
+    ghlink: "https://github.com/harish201105/visionary_attendence_management_system",
+    demolink: "https://youtube.com/@harishparthasarathy2005?si=dfVLmt5wyccPQ6aO",
   },
   {
     id: 4,
-    image: realEstate,
-    name: "Real Estate Website",
+    image: harvesthub,
+    name: "Harvest-Hub",
     description:
-      "Homeverse, built with React.js and TailwindCSS, features a multi-page, fully responsive real estate website.",
-    ghlink: "https://github.com/harish201105",
-    demolink: "https://react-real-estate-website.netlify.app/",
+      "An Agriculture Management System designed to streamline and optimize various farming processes. An Interface for farmers and landowners to manage their farms, crops, machinery, and more.",
+    ghlink: "https://github.com/harish201105/Harvest-Hub",
+    demolink: "https://youtube.com/@harishparthasarathy2005?si=dfVLmt5wyccPQ6aO",
   },
   {
     id: 5,
-    image: acmeRockets,
-    name: "Acme Rockets Website",
+    image: steershield,
+    name: "Steer-Shield",
     description:
-      "A responsive website with user-friendly interface. It has smooth scrolling and multiple sections like Home, Our rockets, Testimonials and Contact Us",
-    ghlink: "https://github.com/harish201105",
-    demolink: "https://acme-rockets-web.netlify.app/",
+      "A Road safety vehicle detection system which enhances bike driver’s safety by identifying helmet and enforcing compliance through automatic number plate recognition and penalty registration using CNN.",
+    ghlink: "https://github.com/harish201105/Helmet-and-Number-Plate-Detection-and-Recognition",
+    demolink: "https://youtube.com/@harishparthasarathy2005?si=dfVLmt5wyccPQ6aO",
   },
   {
     id: 6,
-    image: memeGenerator,
-    name: "Meme Generator",
+    image: equistox,
+    name: "Equi-Stox",
     description:
-      "This project consists of a React Meme Generator app that allows the user to add two text inputs to a meme image and generating a custom meme, allowing the user to always change the image.",
-    ghlink: "https://github.com/harish201105",
-    demolink: "https://react-meme-maker-app.netlify.app/",
+      "A stock market prediction system that utilizes advanced machine learning techniques to analyze historical data and predict future stock prices, empowering investors with valuable insights for informed decision-making.",
+    ghlink: "https://github.com/harish201105/Stock-Market-Management-App",
+    demolink: "https://youtube.com/@harishparthasarathy2005?si=dfVLmt5wyccPQ6aO",
   },
 ];
